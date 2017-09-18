@@ -8,6 +8,8 @@ print("매주 금요일 2시 30분에 클러스터(또는 스매쉬룸 대여가
 
 
 print("스터디원")
+
+
 while True:
   new member=input(" ")
   
