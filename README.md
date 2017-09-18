@@ -11,6 +11,8 @@ print("스터디원")
 
 
 while True:
+  
+  
   new member=input(" ")
   
   
