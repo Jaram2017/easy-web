@@ -13,16 +13,19 @@ print("스터디원")
 while True:
   
   
-  new member=input(" ")
+      new member=input(" ")
   
   
-  a.append('new member')
+      a.append('new member')
   
   
-  a=[안호준,윤지상,강동진,박현창,홍지우,손광민]
+      a=[안호준,윤지상,강동진,박현창,홍지우,손광민]
   
   
-  num=a.length()
+      num=a.length()
   
   
-  (num=6)
+      (num=6)
+     
+
+goal= for new ICT students web page
